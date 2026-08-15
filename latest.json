@@ -1,6 +1,6 @@
 {
-  "version": "20260815-3",
-  "notes": "公网页装修（文案+最多3图）；去掉大额共管提示；仅管理员可改",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-3/branch-20260815-3.zip",
-  "sha256": "20476d359230e39d5cf3abba7bcd85907409f23c5f6b7d1cc1b9f0c741855035"
+  "version": "20260815-4",
+  "notes": "开通页新增主流手机钱包深链入口；后台可勾选显示哪些钱包",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-4/branch-20260815-4.zip",
+  "sha256": "62f89296f49e49eb6f9032f99cfa8965526551886ab63a5903d7d53ccb24e9ce"
 }
