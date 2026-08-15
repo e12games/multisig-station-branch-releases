@@ -1,6 +1,6 @@
 {
-  "version": "20260815-8",
-  "notes": "新增交易所长期落地页 /p/{slug}；公网页装修可复制入口链接；点开始开通才创建短时会话",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-8/branch-20260815-8.zip",
-  "sha256": "a5979c3b8a15f841ca7b43cf0b1e18e43268b03fabe0b4a266d8638231e162b4"
+  "version": "20260815-9",
+  "notes": "二期对接：returnUrl 域名白名单 + 交易所 API 密钥；落地页可带 returnUrl/ref；开通完成自动回跳",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-9/branch-20260815-9.zip",
+  "sha256": "37e8bbca74764af35abe61bee909f6a21c4dfa925fda1e818df1c1ab8caaf9d2"
 }
