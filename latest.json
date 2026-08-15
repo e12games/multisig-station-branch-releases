@@ -1,6 +1,6 @@
 {
-  "version": "20260815-4",
-  "notes": "开通页新增主流手机钱包深链入口；后台可勾选显示哪些钱包",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-4/branch-20260815-4.zip",
-  "sha256": "62f89296f49e49eb6f9032f99cfa8965526551886ab63a5903d7d53ccb24e9ce"
+  "version": "20260815-5",
+  "notes": "修正钱包深链格式（TronLink/OKX 等）；新增复制链接兜底",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-5/branch-20260815-5.zip",
+  "sha256": "49fbebed9046308129a7b12758ef4c2639916ed2660ffdb2ab66473f7903656d"
 }
