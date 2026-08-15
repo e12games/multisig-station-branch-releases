@@ -1,6 +1,6 @@
 {
-  "version": "20260815-7",
-  "notes": "修复：地址校验加上 base58 校验位，预置地址填错时会直接指出是哪个地址",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-7/branch-20260815-7.zip",
-  "sha256": "8467e9775986a2143d9b8e4cbaaef22bbc8b7d51d2752aefdbe7535dc135bd7f"
+  "version": "20260815-8",
+  "notes": "新增交易所长期落地页 /p/{slug}；公网页装修可复制入口链接；点开始开通才创建短时会话",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-8/branch-20260815-8.zip",
+  "sha256": "a5979c3b8a15f841ca7b43cf0b1e18e43268b03fabe0b4a266d8638231e162b4"
 }
