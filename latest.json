@@ -1,0 +1,6 @@
+{
+  "version": "20260815-2",
+  "notes": "兼容宝塔 .user.ini；完善在线更新首测包",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-2/branch-20260815-2.zip",
+  "sha256": "2ec9a5a9d6e012e7babdc50c181d77dc3421203abd111ebaf018222175f417e9"
+}
