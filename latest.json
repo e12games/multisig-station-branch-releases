@@ -1,6 +1,6 @@
 {
-  "version": "20260815-6",
-  "notes": "修复开通时 TronWeb 加载失败（tronweb 5.x 默认导出兼容）",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-6/branch-20260815-6.zip",
-  "sha256": "28d8d16f2d89c6a1780906120c6474962af978d28d6b289fba689c03eb842cb9"
+  "version": "20260815-7",
+  "notes": "修复：地址校验加上 base58 校验位，预置地址填错时会直接指出是哪个地址",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-7/branch-20260815-7.zip",
+  "sha256": "8467e9775986a2143d9b8e4cbaaef22bbc8b7d51d2752aefdbe7535dc135bd7f"
 }
