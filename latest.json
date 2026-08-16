@@ -1,6 +1,6 @@
 {
-  "version": "20260815-12",
-  "notes": "场景目录 + 对接说明；开源最小场景模板 examples/multisig-scene-starter",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-12/branch-20260815-12.zip",
-  "sha256": "a160c476c1aee5e74701eb91e4595a6de52bfb1f813da8d36c8915ddc34fc0e0"
+  "version": "20260815-13",
+  "notes": "场景图文卡片：4 个默认场景含封面；可新建编辑；全员可见，员工仅改自己的；内置可恢复默认",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-13/branch-20260815-13.zip",
+  "sha256": "a443d484996a8d42164c2c2dfebee42c009013852cca07588b625aadd3107f63"
 }
