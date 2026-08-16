@@ -1,6 +1,6 @@
 {
-  "version": "20260815-10",
-  "notes": "后台使用说明 + 按钮旁悬停/点击提示；关键页增加页顶短说明；说明随版本号匹配",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-10/branch-20260815-10.zip",
-  "sha256": "518feb01774a92a9f4c19ea45d60570334bdd9b95bdb200aa3c78a1333f3032f"
+  "version": "20260815-11",
+  "notes": "文档：CHANGELOG + 踩坑与决策手册；发版前必查/必补；更新包内附带 docs",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-11/branch-20260815-11.zip",
+  "sha256": "0f14658e7caea95e07551bf7cfe6f44ceee790785fbffe768f05ac6d97127113"
 }
