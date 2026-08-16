@@ -1,6 +1,6 @@
 {
-  "version": "20260816-25",
-  "notes": "开通页错误可读化；未签交易有效期延长到 10 分钟；广播失败返回中文原因",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260816-25/branch-20260816-25.zip",
-  "sha256": "b6085e73b7bc4e80efcee2352728df96baa284c38a1bd61ee09cd30acb7c11de"
+  "version": "20260816-26",
+  "notes": "未签名交易有效期调整为 60 分钟",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260816-26/branch-20260816-26.zip",
+  "sha256": "87a24016ca4a0057c7b66552dd837b4e81ce7dc9745367a2411a612fca067b53"
 }
