@@ -1,6 +1,6 @@
 {
-  "version": "20260815-15",
-  "notes": "「低档2址」改名为「多签地址」；会员不显示大额共管说明",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-15/branch-20260815-15.zip",
-  "sha256": "5d478bed90d2715bf5e8b5c1892ff8a85f5f107f305a4caaa9a624cc0e0df9b8"
+  "version": "20260815-16",
+  "notes": "总部不可达时本地兜底折合阈值默认改为 500000（与总部一致）",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-16/branch-20260815-16.zip",
+  "sha256": "937834dabb588548cfad8ae6b090ccfa8fe0201a065cd28bd46c6fef93642695"
 }
