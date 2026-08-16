@@ -1,6 +1,6 @@
 {
-  "version": "20260816-27",
-  "notes": "3/4 开通成功后异步回写总部已开通",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260816-27/branch-20260816-27.zip",
-  "sha256": "31b1fbd31e03fd7cb9d2543f08fe5b6f5c08a51414288a3b3eed7371378380fb"
+  "version": "20260816-28",
+  "notes": "3/4 回写总部时附带 publicUrl 供来源域名展示",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260816-28/branch-20260816-28.zip",
+  "sha256": "24cda5767a4055af475b2a85586f057ce9ab6216f68c5d36d4ecae5100a9dd82"
 }
