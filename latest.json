@@ -1,6 +1,6 @@
 {
-  "version": "20260815-18",
-  "notes": "修复多签地址页少一格：固定 2 行并补空行",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-18/branch-20260815-18.zip",
-  "sha256": "3d561529d81817bb473c33176e23299aed647bb3ceaa266b74e8175fcd96d553"
+  "version": "20260815-19",
+  "notes": "大额档对齐总部3/4（拉取高档3址）",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-19/branch-20260815-19.zip",
+  "sha256": "e96d12f9db4c2ad295ed2e4783d0ca4a7c902306bd72948f7838f2bdf3b5802c"
 }
