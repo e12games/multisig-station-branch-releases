@@ -1,6 +1,6 @@
 {
-  "version": "20260816-20",
-  "notes": "登录图形验证码与失败限流（对齐总部）",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260816-20/branch-20260816-20.zip",
-  "sha256": "2b7bcfcaebf7a8c7b855905ad66141f0ba1b7fedafc9410f3383c3bdaf6187b5"
+  "version": "20260816-21",
+  "notes": "本人改密与超管重置密码",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260816-21/branch-20260816-21.zip",
+  "sha256": "8fb4e7a510f1f280054f1e53de485c4e31c7bbc559b96acf53c1f2405b29dc87"
 }
