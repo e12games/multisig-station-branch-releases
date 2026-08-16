@@ -1,6 +1,6 @@
 {
-  "version": "20260815-9",
-  "notes": "二期对接：returnUrl 域名白名单 + 交易所 API 密钥；落地页可带 returnUrl/ref；开通完成自动回跳",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-9/branch-20260815-9.zip",
-  "sha256": "37e8bbca74764af35abe61bee909f6a21c4dfa925fda1e818df1c1ab8caaf9d2"
+  "version": "20260815-10",
+  "notes": "后台使用说明 + 按钮旁悬停/点击提示；关键页增加页顶短说明；说明随版本号匹配",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-10/branch-20260815-10.zip",
+  "sha256": "518feb01774a92a9f4c19ea45d60570334bdd9b95bdb200aa3c78a1333f3032f"
 }
