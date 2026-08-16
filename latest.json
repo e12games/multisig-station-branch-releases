@@ -1,6 +1,6 @@
 {
-  "version": "20260816-26",
-  "notes": "未签名交易有效期调整为 60 分钟",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260816-26/branch-20260816-26.zip",
-  "sha256": "87a24016ca4a0057c7b66552dd837b4e81ce7dc9745367a2411a612fca067b53"
+  "version": "20260816-27",
+  "notes": "3/4 开通成功后异步回写总部已开通",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260816-27/branch-20260816-27.zip",
+  "sha256": "31b1fbd31e03fd7cb9d2543f08fe5b6f5c08a51414288a3b3eed7371378380fb"
 }
