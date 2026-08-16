@@ -1,6 +1,6 @@
 {
-  "version": "20260815-16",
-  "notes": "总部不可达时本地兜底折合阈值默认改为 500000（与总部一致）",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-16/branch-20260815-16.zip",
-  "sha256": "937834dabb588548cfad8ae6b090ccfa8fe0201a065cd28bd46c6fef93642695"
+  "version": "20260815-17",
+  "notes": "修复宝塔 nginx SPA 刷新 404 与裸 /api/ 配置；总部和分公司兼容同步",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-17/branch-20260815-17.zip",
+  "sha256": "1f478704759083aa8c67e4c6f1a7edaa049dee9faef4e1e410bb8d1fe315686d"
 }
