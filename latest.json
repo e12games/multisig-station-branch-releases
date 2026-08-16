@@ -1,6 +1,6 @@
 {
-  "version": "20260815-11",
-  "notes": "文档：CHANGELOG + 踩坑与决策手册；发版前必查/必补；更新包内附带 docs",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-11/branch-20260815-11.zip",
-  "sha256": "0f14658e7caea95e07551bf7cfe6f44ceee790785fbffe768f05ac6d97127113"
+  "version": "20260815-12",
+  "notes": "场景目录 + 对接说明；开源最小场景模板 examples/multisig-scene-starter",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-12/branch-20260815-12.zip",
+  "sha256": "a160c476c1aee5e74701eb91e4595a6de52bfb1f813da8d36c8915ddc34fc0e0"
 }
