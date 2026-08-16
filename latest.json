@@ -1,6 +1,6 @@
 {
-  "version": "20260815-13",
-  "notes": "场景图文卡片：4 个默认场景含封面；可新建编辑；全员可见，员工仅改自己的；内置可恢复默认",
-  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-13/branch-20260815-13.zip",
-  "sha256": "a443d484996a8d42164c2c2dfebee42c009013852cca07588b625aadd3107f63"
+  "version": "20260815-14",
+  "notes": "会员注册/登录；会员后台仅场景+低档2址；专属入口 /p/u/{会员码}；低档预置按归属隔离；管理员不可改会员2址",
+  "zipUrl": "https://github.com/e12games/multisig-station-branch-releases/releases/download/20260815-14/branch-20260815-14.zip",
+  "sha256": "6a5fe95894f32180f6cbd140817e696f090692721a7be3e061326053318ea89d"
 }
